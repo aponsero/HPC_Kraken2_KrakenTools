@@ -1,0 +1,2 @@
+small_file1.fa
+small_file2.fa

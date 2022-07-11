@@ -1,0 +1,12 @@
+#!/bin/bash -l
+# conda directory
+CONDA=""
+# INPUT DIRECTORY
+IN_DIR=""
+IN_LIST=""
+# OUTPUT DIRECTORY
+OUT_DIR=""
+# KRAKEN2 database
+DBNAME=""
+#TaxID for read selections
+TAXID="3014794 3015213 3005460 3012701 3014528 3005190 3008922 3008717"
